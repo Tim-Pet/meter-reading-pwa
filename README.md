@@ -12,7 +12,17 @@ We worked in a team of 4 (1 UX/UI-Designer, 2 Backend, 1 Frontend #me). Credits 
 - Use React
 
 ## Result
-- coming soon
+### User Workflow
+<img src="./showcase/userFlow.gif" width="300" />
+
+### Connection loss
+<img src="./showcase/ConnectionSwitch.gif" width="300" />
+
+### Offline Entry
+<img src="./showcase/OfflineEntry.gif" width="300" />
+
+### FAQ section
+<img src="./showcase/FAQ.gif" width="300" />
 
 ## Tools & Libraries used
 - React
