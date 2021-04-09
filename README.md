@@ -1,6 +1,6 @@
 # meter-reading-pwa
 This is a project created in cooperation with BPC AG and got created as our final project of the Digital Shaper Track from Techlabs.
-We worked in a team of 4 (1 UX/UI-Designer, 2 Backend, 1 Frontend - me). Credits for the idea and scope of the created MVP belongs to BPC.
+We worked in a team of 4 (1 UX/UI-Designer, 2 Backend, 1 Frontend #me). Credits for the idea and scope of the created MVP belongs to BPC.
 
 ## Goal
 - Create a PWA which lets the user enter meter data as a minimal viable product
