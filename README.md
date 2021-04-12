@@ -42,8 +42,6 @@ We worked in a team of 4 (1 UX/UI-Designer, 2 Backend, 1 Frontend #me). Credits 
 - Styled components aren't always the way to go
 - How to use "useRef"
 - Process from (Figma-)Design to code
-
-### New:
 - Date-picker & Date handling
 - Proper use of a new API
 
