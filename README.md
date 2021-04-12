@@ -39,11 +39,23 @@ We worked in a team of 4 (1 UX/UI-Designer, 2 Backend, 1 Frontend #me). Credits 
 - service worker
 
 ## Learnings
-- coming soon
+- How to connect BE and FE to handle Data
+- Basic Setup to work with offline & online functionalities
+- Authentification process
+- React setState is asynchron (!) --> Custom onPromise-Hooks or useEffect
 - Styled components aren't always the way to go
+- How to use "useRef"
+- Process from (Figma-)Design to code
 
 ### New:
 - Date-picker & Date handling
 - Proper use of a new API
 
 ## Next Steps
+### FrontEnd:
+- Testing
+
+### Backend:
+- Node
+- Express
+- MongoDB
