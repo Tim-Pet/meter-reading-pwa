@@ -44,6 +44,7 @@ We worked in a team of 4 (1 UX/UI-Designer, 2 Backend, 1 Frontend #me). Credits 
 - Process from (Figma-)Design to code
 - Date-picker & Date handling
 - Proper use of a new API
+- Microanimations based on states
 
 ## Next Steps
 ### FrontEnd:
